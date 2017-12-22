@@ -1,2 +1,2 @@
 # cs224
-standford cs224d NLP
+Standford cs224d NLP
